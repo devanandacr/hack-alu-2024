@@ -65,9 +65,9 @@ Below are images extracted from the project report, showcasing the hardware and 
 | Diagram Title | Image |
 | :--- | :---: |
 | **Circuit Diagram** | ![Circuit Diagram](hack-alu-2024/images/CircuitDiagram.png) |
-| **Hardware Simulation - Nand2Tetris** | ![Hardware Simukation(hack-alu-2024/images/Hardware Simulation - Nand2Tetris.png) |
+| **Hardware Simulation - Nand2Tetris** | ![Hardware Simukation(hack-alu-2024/images/HardwareSimulation.png) |
 | **Hardware Implementation** | ![Hardware](hack-alu-2024/images/Hardware.png) |
-| **Software Simulation - CEDAR logic** | ![Software Simulation](hack-alu-2024/images/Software Simulation - CEDAR Logic.png) |
+| **Software Simulation - CEDAR logic** | ![Software Simulation](hack-alu-2024/images/SoftwareSimulation.png) |
 
 ---
 
