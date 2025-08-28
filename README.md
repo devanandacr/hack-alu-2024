@@ -64,10 +64,10 @@ Below are images extracted from the project report, showcasing the hardware and 
 
 | Diagram Title | Image |
 | :--- | :---: |
-| **Circuit Diagram** | ![Circuit Diagram](hack-alu-2024/images/Circuit_Diagram.png) |
-| **Hardware Implementation** | ![Hardware Implementation](hack-alu-2024/images/Hardware_Impl.png) |
-| **Simulation Screenshot** | ![Simulation Screenshot](hack-alu-2024/images/Simulation.png) |
-| **Truth Tables** | ![Truth Tables](hack-alu-2024/images/Truth_Tables.png) |
+| **Circuit Diagram** | ![Circuit Diagram](hack-alu-2024/images/CircuitDiagram.png) |
+| **Hardware Simulation - Nand2Tetris** | ![Hardware Simukation(hack-alu-2024/images/Hardware Simulation - Nand2Tetris.png) |
+| **Hardware Implementation** | ![Hardware](hack-alu-2024/images/Hardware.png) |
+| **Software Simulation - CEDAR logic** | ![Software Simulation](hack-alu-2024/images/Software Simulation - CEDAR Logic.png) |
 
 ---
 
